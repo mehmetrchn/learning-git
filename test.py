@@ -10,4 +10,12 @@ def test():
 
         x += 1
 
+
+#Adding new features
+def to_merge():
+
+    print("Merge operation with new branches")
 test()
+
+to_merge()
+

@@ -1,6 +1,5 @@
-# learning-git
-## Resources:
-#   Reading:
+# Learning git Guide
+#   Documents:
 	https://missing.csail.mit.edu/2020/version-control/
 	https://git-scm.com/book/en/v2
 	https://www.tutorialspoint.com/git/index.htm
